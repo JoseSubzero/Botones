@@ -138,4 +138,20 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.93" />
 
+    <Button
+        android:id="@+id/btnBoton6"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:background="@drawable/triplecolor"
+        android:text="Button"
+        android:textAllCaps="false"
+        android:textColor="@color/gris"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.109"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.72" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
