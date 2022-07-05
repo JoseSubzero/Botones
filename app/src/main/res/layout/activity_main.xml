@@ -19,7 +19,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.20" />
+        app:layout_constraintVertical_bias="0.10" />
 
     <Button
         android:id="@+id/botonB"
@@ -34,7 +34,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.30" />
+        app:layout_constraintVertical_bias="0.23" />
 
     <Button
         android:id="@+id/botonC"
@@ -49,7 +49,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.40" />
+        app:layout_constraintVertical_bias="0.37" />
 
     <Button
         android:id="@+id/botonD"
@@ -63,7 +63,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.52" />
 
     <Button
         android:id="@+id/botonGo"
@@ -79,6 +80,62 @@
         app:layout_constraintHorizontal_bias="0.526"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.652" />
+        app:layout_constraintVertical_bias="0.72" />
+
+    <TextView
+        android:id="@+id/tvColorVerde"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#FF2AF598"
+        android:textColor="#FF2AF598"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.20"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.85" />
+
+    <TextView
+        android:id="@+id/tvColorAzul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#FF009EFD"
+        android:textColor="#FF009EFD"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.80"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.85" />
+
+    <TextView
+        android:id="@+id/tvColorRosa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#FFFA71CD"
+        android:textColor="#FFFA71CD"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.20"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.93" />
+
+    <TextView
+        android:id="@+id/tvColorMorado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#FFBF66F9"
+        android:textColor="#FFBF66F9"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.80"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.93" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
