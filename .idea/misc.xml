@@ -3,13 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/buttom_selector.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/button_state_not_pressed.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/button_state_pressed.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/colorclaroblanco.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/disabled.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/gradient.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/notpressed.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/oval.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/pressed.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/rectangle.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/secondrectangle.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/drawable/triplecolor.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/activity_selector.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
