@@ -20,6 +20,10 @@
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/activity_seek_bar.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/activity_selector.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/fragment_second.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/layout/fragment_third.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/Botones/app/src/main/res/menu/bottomnavigationmenu.xml" value="0.365625" />
       </map>
     </option>
   </component>

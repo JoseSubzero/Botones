@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opBotones"
+        android:icon="@drawable/ic_baseline_button_24"
+        android:title="Botones" />
+    <item
+        android:id="@+id/opSelectorBar"
+        android:icon="@drawable/ic_baseline_select_24"
+        android:title="SelectorBar" />
+    <item
+        android:id="@+id/opSeekBar"
+        android:icon="@drawable/ic_baseline_volume_24"
+        android:title="SeekBar" />
+</menu>
